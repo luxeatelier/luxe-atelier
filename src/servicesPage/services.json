@@ -1,0 +1,28 @@
+{
+    "services": [
+        {
+            "service_name": "Design Consultation",
+            "service_content": "Get expert advice and personalized recommendations to kickstart your interior design journey."
+        },
+        {
+            "service_name": "Space Planning",
+            "service_content": "Optimize the layout and functionality of your space with efficient floor plans tailored to your lifestyle."
+        },
+        {
+            "service_name": "Customized Interiors",
+            "service_content": "Bring your vision to life with bespoke furniture, fixtures, and finishes tailored to your unique style."
+        },
+        {
+            "service_name": "Visual Renderings",
+            "service_content": "Visualize design concepts before implementation with lifelike 2D/3D renderings of your future space."
+        },
+        {
+            "service_name": "Project Management",
+            "service_content": "Ensure seamless execution and timely completion of your project with dedicated project management."
+        },
+        {
+            "service_name": "Styling & Decor",
+            "service_content": "Add the finishing touches that elevate the ambiance of your space with curated styling and decor."
+        }
+    ]
+}

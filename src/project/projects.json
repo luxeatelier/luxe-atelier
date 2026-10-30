@@ -1,0 +1,43 @@
+{
+    "Living Area": [
+      {"project_name": "Cozy Lounge", "image": "living1", "category": "Interior"},
+      {"project_name": "Elegant Living Space", "image": "living2", "category": "Interior"},
+      {"project_name": "Contemporary Lounge", "image": "living3", "category": "Interior"},
+      {"project_name": "Family Gathering Area", "image": "living4", "category": "Interior"},
+      {"project_name": "Relaxation Haven", "image": "living5", "category": "Interior"},
+      {"project_name": "Modern Gathering Space", "image": "living6", "category": "Interior"},
+      {"project_name": "Elegant Lounge", "image": "living7", "category": "Interior"},
+      {"project_name": "Spacious Living Area", "image": "living8", "category": "Interior"}
+    ],
+    "Kitchen": [
+      {"project_name": "Sleek Culinary Hub", "image": "kitchen1", "category": "Interior"},
+      {"project_name": "Gourmet Kitchen", "image": "kitchen2", "category": "Interior"},
+      {"project_name": "Minimalist Cooking Space", "image": "kitchen3", "category": "Interior"},
+      {"project_name": "Family Kitchen", "image": "kitchen4", "category": "Interior"},
+      {"project_name": "Chef's Paradise", "image": "kitchen5", "category": "Interior"},
+      {"project_name": "Contemporary Kitchen", "image": "kitchen6", "category": "Interior"},
+      {"project_name": "Smart Kitchen Design", "image": "kitchen7", "category": "Interior"},
+      {"project_name": "Open-Plan Kitchen", "image": "kitchen8", "category": "Interior"}
+    ],
+    "Bedroom": [
+      {"project_name": "Kids Room", "image": "bedroom1", "category": "Interior"},
+      {"project_name": "Serene Sleeping Quarter", "image": "bedroom2", "category": "Interior"},
+      {"project_name": "Cozy Sanctuary", "image": "bedroom3", "category": "Interior"},
+      {"project_name": "Modern Sleep Haven", "image": "bedroom4", "category": "Interior"},
+      {"project_name": "Bedroom Oasis", "image": "bedroom5", "category": "Interior"},
+      {"project_name": "Minimalist Sleeping Space", "image": "bedroom6", "category": "Interior"},
+      {"project_name": "Dreamy Bedroom Escape", "image": "bedroom7", "category": "Interior"},
+      {"project_name": "Elegant Sleeping Haven", "image": "bedroom8", "category": "Interior"}
+    ],
+    "Bathroom": [
+      {"project_name": "Spa-Inspired Bathroom", "image": "bathroom1", "category": "Interior"},
+      {"project_name": "Modern Bath Oasis", "image": "bathroom2", "category": "Interior"},
+      {"project_name": "Sleek Bathroom Design", "image": "bathroom3", "category": "Interior"},
+      {"project_name": "Relaxing Bath Retreat", "image": "bathroom4", "category": "Interior"},
+      {"project_name": "Soothing Sink", "image": "bathroom5", "category": "Interior"},
+      {"project_name": "Minimalist Bath Sanctuary", "image": "bathroom6", "category": "Interior"},
+      {"project_name": "Luxury Bath Haven", "image": "bathroom7", "category": "Interior"},
+      {"project_name": "Refreshing Wash Station", "image": "bathroom8", "category": "Interior"}
+    ]
+  }
+  

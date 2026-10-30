@@ -1,0 +1,43 @@
+{
+    "members": [
+        {
+            "firstname": "Jasil",
+            "fullname": "Jasil Salim",
+            "job": "Design",
+            "country": "India",
+            "image": "m0",
+            "mail": "jasilsalim15@gmail.com",
+            "phone": "9633113288",
+            "description": "Jasil Salim excels in managerial duties, design endeavors, and fostering customer engagement. With meticulous attention to detail, he creates functional and aesthetically pleasing spaces while ensuring a seamless customer experience.",
+            "facebook": "https://www.facebook.com/jesil.salim",
+            "instagram": "https://www.instagram.com/jazilsalim",
+            "whatsapp": "https://api.whatsapp.com/send?phone=919633113288&text=Hi"
+        },
+        {
+            "firstname":"Shahul",
+            "fullname": "Shahul Hameed Meerasa",
+            "job": "Design",
+            "country": "India",
+            "image": "m1",
+            "mail": "shahulhameedmeerasa@hotmail.com",
+            "phone": "8891880648",
+            "description": "Shahul Hameed infuses each project with sophistication and flair, seamlessly blending contemporary aesthetics with timeless elegance.",
+            "facebook": "https://www.facebook.com/shahul.meerasa",
+            "instagram": "https://www.instagram.com/shahulmeerza",
+            "whatsapp": "https://api.whatsapp.com/send?phone=918891880648&text=Hi"
+        },
+        {
+            "firstname":"Ashif",
+            "fullname": "Ashif Ashraf",
+            "job": "Design",
+            "country": "India",
+            "image": "m2",
+            "mail": "ashifmackanayath04@gmail.com",
+            "phone": "7994499004",
+            "description": "Ashif Ashraf draws inspiration from diverse cultures to create vibrant, dynamic interiors that reflect her clients' unique personalities.",
+            "facebook": "https://www.facebook.com/ashif.ma.3",
+            "instagram": "https://www.instagram.com/ashif_m_ashraf",
+            "whatsapp": "https://api.whatsapp.com/send?phone=917994499004&text=Hi"
+        }
+    ]
+}
